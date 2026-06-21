@@ -1,0 +1,15 @@
+[
+  {
+    "Name": "Nuovo profilo",
+    "Projects": [
+      {
+        "Path": "CircoloSportivo.API\\CircoloSportivo.API.csproj",
+        "Action": "Start"
+      },
+      {
+        "Path": "CircoloSportivo.MVC\\CircoloSportivo.MVC.csproj",
+        "Action": "Start"
+      }
+    ]
+  }
+]
